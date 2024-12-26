@@ -9,7 +9,7 @@
     "db-mysql": {
         "host": "localhost",
         "port": 3306,
-        "name": "delivary_ecommerce",
+        "name": "food_delivery_app",
         "password": "LoveCoding@123"
     }
 }
